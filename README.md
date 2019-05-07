@@ -3,5 +3,5 @@
 
 ![](5shapes.gif)
 
-![](collection.gif)
+![](collection_gif.gif)
 
