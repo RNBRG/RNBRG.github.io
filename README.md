@@ -5,3 +5,4 @@
 
 ![](collection_gif.gif)
 
+![](easytobuild.gif)
