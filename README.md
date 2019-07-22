@@ -7,8 +7,8 @@
 
 ![](easytobuild.gif)
 
-![](millenial2.jpg)
-
 ![](695px_collection_gif.gif)
 
 ![](695px_collection_gif_02.gif)
+
+![](695px_collection_gif_03.gif)
