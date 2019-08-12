@@ -30,3 +30,5 @@
 ![](avalanche_onboarding-03.png)
 
 ![](Avalanche_avatar_red_small.png)
+
+![](Avalanche_avatar_red.jpg)
