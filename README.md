@@ -28,3 +28,5 @@
 ![](avalanche_onboarding-02.png)
 
 ![](avalanche_onboarding-03.png)
+
+![](Avalanche_avatar_red_small.png)
