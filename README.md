@@ -22,3 +22,9 @@
 ![](695px_5shapes_02.gif)
 
 ![](695px_5shapes_02.gif)
+
+![](avalanche_onboarding-01.png)
+
+![](avalanche_onboarding-02.png)
+
+![](avalanche_onboarding-03.png)
